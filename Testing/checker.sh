@@ -36,5 +36,5 @@ done
 # Print total points
 echo "Total: ${TPOINTS}p"
 
-# Remove de executable
+# Remove the executable
 make clean -s
